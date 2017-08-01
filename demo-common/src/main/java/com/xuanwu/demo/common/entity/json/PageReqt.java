@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * @Description 分页请求
- * @author <a href="mailto:liushuaiying@139130.net">Shuaiying.Liu</a>
+ * @author Beck Wu
  * @Data 2015年4月27日
  * @Version 1.0.0
  */

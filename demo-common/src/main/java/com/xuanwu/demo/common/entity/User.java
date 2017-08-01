@@ -6,7 +6,7 @@ package com.xuanwu.demo.common.entity;
 
 /**
  * @Description 
- * @author <a href="mailto:liushuaiying@139130.net">Shuaiying.Liu</a>
+ * @author Beck Wu
  * @Data 2015年7月23日
  * @Version 1.0.0
  */

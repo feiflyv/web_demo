@@ -8,7 +8,7 @@ import com.xuanwu.demo.common.util.Assert;
 
 /**
  * @Description 通用JSON处理结果
- * @author <a href="mailto:liushuaiying@139130.net">Shuaiying.Liu</a>
+ * @author Beck Wu
  * @Data 2015年4月27日
  * @Version 1.0.0
  */

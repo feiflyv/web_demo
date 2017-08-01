@@ -7,7 +7,7 @@ import com.xuanwu.demo.common.util.Assert;
 
 /**
  * 查询参数
- * @author <a href="mailto:liushuaiying@139130.net">Shuaiying.Liu</a>
+ * @author Beck Wu
  * @Data 2015年5月27日
  * @Version 1.0.0
  */

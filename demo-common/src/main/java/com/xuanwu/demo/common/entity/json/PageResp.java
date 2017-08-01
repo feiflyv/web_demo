@@ -8,7 +8,7 @@ import java.util.Collections;
 
 /**
  * @Description 分页处理结果
- * @author <a href="mailto:liushuaiying@139130.net">Shuaiying.Liu</a>
+ * @author Beck Wu
  * @Data 2015年4月27日
  * @Version 1.0.0
  */
